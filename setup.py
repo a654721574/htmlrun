@@ -8,8 +8,8 @@ setup(
     long_description = "time and path tool",
     license = "MIT Licence",
 
-    url = "https://gitee.com/ccf333/HTMLrun.git",
-    author = "ccf333",
+    url = "https://github.com/a654721574/htmlrun.git",
+    author = "a654721574",
     author_email = "654721574@qq.com",
 
     packages = find_packages(),
