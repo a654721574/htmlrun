@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "magetool",
+    name = "CCF",
     version = "1.1.0",
-    keywords = ("pip", "pathtool","timetool", "magetool", "mage"),
+    keywords = ("pip", "pathtool","timetool", "CCF", "mage"),
     description = "time and path tool",
     long_description = "time and path tool",
     license = "MIT Licence",
